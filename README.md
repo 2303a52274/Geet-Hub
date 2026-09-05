@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2303a52274/Geet-Hub/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/2303a52274/Geet-Hub/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1693-daily-leads-and-partners](https://github.com/2303a52274/Geet-Hub/tree/master/1693-daily-leads-and-partners) |
+| [1965-employees-with-missing-information](https://github.com/2303a52274/Geet-Hub/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
